@@ -104,5 +104,5 @@ Result: `com.bandarhl.bhtwitter_4.2_iphoneos-arm.deb` inside `packages`.
 
 
 > [!NOTE]  
-> <b>This repo is forked from BHTwitter. It will merge patches upstream to BHTwitter when it's considered mostly done. 
+> <b>This repo is forked from BHTwitter.</b><br>It will merge patches upstream to BHTwitter when it's considered mostly done. 
 
